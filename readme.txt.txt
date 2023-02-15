@@ -1,2 +1,1 @@
-Git is a version control system.
-Git is free software.
+hi，大家好，我是一个爱动脑筋的孩子，太难就算了，喜欢出去耍，拍拍好看的照片，拍到好看的照片可开心啦。还喜欢唱唱歌跳跳舞虽然很烂但是不影响我喜欢。
